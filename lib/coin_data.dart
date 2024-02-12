@@ -34,7 +34,7 @@ const List<String> cryptoList = [
   'LTC',
 ];
 
-const apiKey = '9C34FBDF-AE3A-418D-AB7A-4C32A3005B80';
+const apiKey = '{YOUR API KEY}';
 
 const btcUrl = 'https://rest.coinapi.io/v1/exchangerate';
 
